@@ -1,4 +1,4 @@
-class DClean < Formula
+class Dclean < Formula
     desc "A command line utility for deleting old versions of Docker images."
     homepage "https://github.com/bfbachmann/dclean"
     url "https://github.com/bfbachmann/dclean/releases/download/0.1.0/dclean-mac.tar.gz"
