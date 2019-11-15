@@ -4,5 +4,5 @@
 
 ```bash
 $ brew tap bfbachmann/dclean
-$ brew install bfbachmann/dclean
+$ brew install bfbachmann/dclean/dclean
 ```
